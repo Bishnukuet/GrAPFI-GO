@@ -1,5 +1,4 @@
-# GrAPFI-GO
-Improving Automatic GO Annotation With Semantic Similarity
+# GrAPFI-GO : Improving Automatic GO Annotation With Semantic Similarity
 
 GOInference.py contains code for predicting the GO Term using GrAPFI. 
 
